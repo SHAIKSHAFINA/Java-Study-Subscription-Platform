@@ -1,5 +1,5 @@
 
-**Study Subscription System**
+**Study Subscription Platform**
 
 This Java-based application serves as a subscription management platform for educational courses across various domains such as Programming Languages, Web Development, Aptitude, and Data Structures. The system is designed to help users enroll in courses offered through different platforms with customizable learning modes. Users can select from multiple learning options such as Live Classes, Video Lectures, and Mock Tests, each with a limited number of seats available.
 
